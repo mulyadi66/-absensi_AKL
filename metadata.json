@@ -1,0 +1,6 @@
+{
+  "name": "PresensiSiswa - Rekap Absensi Siswa Digital",
+  "description": "Sistem presensi siswa digital harian dan bulanan dengan fitur multi-kelas, cetak laporan resmi PDF, ekspor Excel, dan notifikasi cepat wali murid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
